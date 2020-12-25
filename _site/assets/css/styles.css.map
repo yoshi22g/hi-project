@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\"\n",
+		".nav-current-page {\n  color: white;\n  background-color: blue;\n}\n\n.hi {\n  display: block;\n  color: pink;\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,iBAAiB,CAAC,EAChB,KAAK,EAAE,KAAK,EACZ,gBAAgB,EAAE,IAAI,GACvB;;AAED,AAAA,GAAG,CAAC,EACF,OAAO,EAAE,KAAK,EACd,KAAK,EAAE,IAAI,GACZ"
+}
